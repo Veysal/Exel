@@ -10,5 +10,7 @@
         "semi": "off",
         "arrow-parens": "off"
     },
-    "extends": ["eslint:recommended", "google"]
+    "extends": ["eslint:recommended", "google"],
+    
+    "inebreak-style": ["error", "windows"]
 }
